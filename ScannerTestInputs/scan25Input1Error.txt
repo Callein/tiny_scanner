@@ -1,0 +1,22 @@
+#first input
+print("scanner test");
+number_1@statement$.id *= 5;
+name& =  "John";
+&wrong.id = 10;
+print(number);
+print(name);
+a&c_d = 33;
+%b.&_value = 200;
+# if statement
+if (b > a){
+  print("b is greater than a");}
+elif (a == b){
+  print("a and b are equal");}
+index = 1;
+# while statement
+while (index < 6){
+  print(index);
+  index += 1;}
+#for statement
+for (integer x=1;x<10;x+=x+1) { 
+  print(x);}
